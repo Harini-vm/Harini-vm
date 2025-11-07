@@ -41,7 +41,7 @@ I’m Harini, a B.Tech Information Technology student passionate about building 
 
 #
 
-### 🧩 Programming Platforms
+### 🧩 Coding Platform  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harini_300/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harinivm)
 [![Skillrack](https://img.shields.io/badge/Skillrack-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/442200/20f3d9962d2d9f562f8952e645edbed2b689bc7d )
