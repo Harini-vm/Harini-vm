@@ -2,12 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="120" style="height:auto;">
 </p>
 
-<h2 align="center">👋 Hi there,</h2>
+<h2 align="center">Hi there,</h2>
 
 <p align="center">
 I’m Harini, a B.Tech Information Technology student passionate about building impactful digital experiences. I’m deeply interested in Full Stack Development, exploring both front-end creativity and back-end logic to create seamless, user-focused web applications. I love learning new technologies, solving real-world problems through code, and continuously improving my development skills.
 
----
+#
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harini-vm&label=Profile%20views&color=yellow&style=for-the-badge" alt="Profile views" />
@@ -23,7 +23,7 @@ I’m Harini, a B.Tech Information Technology student passionate about building 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
----
+#
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,13 +33,13 @@ I’m Harini, a B.Tech Information Technology student passionate about building 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+#
 
 ### ⚙️ Backend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
----
+#
 
 ### 🧩 Programming Platforms
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harini_300/)
