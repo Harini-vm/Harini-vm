@@ -7,12 +7,6 @@
 <p align="center">
 I’m Harini, a B.Tech Information Technology student passionate about building impactful digital experiences. I’m deeply interested in Full Stack Development, exploring both front-end creativity and back-end logic to create seamless, user-focused web applications. I love learning new technologies, solving real-world problems through code, and continuously improving my development skills.
 
-#
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harini-vm&label=Profile%20views&color=yellow&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ## 🧠 My Tech Stack
