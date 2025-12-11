@@ -50,8 +50,25 @@ I’m Harini, a B.Tech Information Technology student passionate about building 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harini-vm&show_icons=true&title_color=ff79c6&text_color=ffffff&icon_color=ffb6c1&bg_color=282a36&hide_border=true" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harini-vm&show_icons=true&theme=dark&hide_border=true&border_radius=12"
+    alt="Harini GitHub Stats"
+  />
 </p>
+
+## 🧑‍💻 LeetCode Progress
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/Harini_300?theme=dark&ext=heatmap&border=0&radius=15&font=Source%20Sans%20Pro"
+    alt="LeetCode Heatmap"
+  />
+</p>
+
+
+
+
+
+
 
 ---
 
